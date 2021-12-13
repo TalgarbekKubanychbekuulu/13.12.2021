@@ -3,7 +3,7 @@ body{
     padding-top: 10%;
     padding-right: 2%;
     background-image: url(./love.jpg);
-    background-repeat: no-repeat;xx
+    background-repeat: no-repeat;
     width: 100%;
 }
 *{
@@ -15,7 +15,7 @@ body{
     align-content: center;
     text-align: center;
     color: red;
-    font-size: 20px;
+    font-size: 20px;g
     text-shadow: blue 2px 1px;
 }
 button {
